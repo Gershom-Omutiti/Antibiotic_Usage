@@ -45,6 +45,17 @@ Prescribers should recommend oral antibiotics for less complicated infections wh
 Prescribers should consider other beta-lactums when prescribing to reduce the over-prescribing of ceftriaxone.
 Implement strict treatment guidelines to tackle over-prescribing of antibiotics.
 
+**Limitations**
+
+I had to put all the antibiotics having the same active ingredient under one name because they would have affected the accuracy of my conclusions from the analysis.
+
+**References**
+
+Sutradhar, K. B., Saha, A., Huda, N. H., & Uddin, R. (2014). Irrational use of antibiotics and antibiotic resistance in southern rural Bangladesh: perspectives from both the physicians and patients. Annual Research & Review in Biology, 4(9), 1421-1430.
+
+Ferdous, J., Sachi, S., Al Noman, Z., Hussani, S. A. K., Sarker, Y. A., & Sikder, M. H. (2019). Assessing farmers’ perspective on antibiotic usage and management practices in small-scale layer farms of Mymensingh district, Bangladesh. Veterinary world, 12(9), 1441.
+
+
 
 
 
