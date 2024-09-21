@@ -1,5 +1,7 @@
 # Antibiotic Usage Analysis
 
+**Table of Contents**
+
 **Project Overview**
 
 This data analysis project aims to provide insights into the antibiotic usage in a hospital set up. The dataset focuses on the different aspects of antibiotics and their indications. The dataset contains age and gender of the patient, diagnosis of the patient, Antibiotics used to treat patient Dosage of the antibiotics in grams Route of application of antibiotics Frequency of usage of antibiotics Duration of treatment using antibiotics in days Indication of antibiotics. By analyzing the various aspects of antibiotic usage, we seek to identify trends, come up with data driven recommendations and gain a deeper understanding of antibiotic usage in hospitals.
@@ -31,7 +33,12 @@ What is the correlation between antibiotic prescribed, routes of administration 
 **Data Analysis**
 
 Includes python code features
+
+```Python
+
 df['Frequency'].value_counts()
+
+```
 
 **Results/Findings**
 
